@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-app-template",
+  "name": "goit-js-hw-11",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-11/",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist --repo https://github.com/Buievska/goit-js-hw-10.git"
+    "deploy": "gh-pages -d dist --repo https://github.com/Buievska/goit-js-hw-11.git"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
